@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render Home component 1`] = `
+<div>
+  <section
+    class="sectionstyled-sc-vci63l-0 hccRYl"
+  >
+    <div
+      class="containerstyled-sc-1109x8c-0 ceDfeO"
+    >
+      <h1>
+        home
+      </h1>
+    </div>
+  </section>
+</div>
+`;
